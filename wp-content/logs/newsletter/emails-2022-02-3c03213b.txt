@@ -1,0 +1,12 @@
+25-02-2022 05:55:20 - ERROR - 7.3.9 - 19,9 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails/blocks (1) - 
+25-02-2022 05:55:20 - ERROR - 7.3.9 - 19,9 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails (1) - 
+25-02-2022 05:55:20 - ERROR - 7.3.9 - 15,4 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails/blocks (1) - 
+25-02-2022 05:55:20 - ERROR - 7.3.9 - 15,4 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails (1) - 
+25-02-2022 05:55:30 - ERROR - 7.3.9 - 19,9 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails/blocks (1) - 
+25-02-2022 05:55:30 - ERROR - 7.3.9 - 19,9 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails (1) - 
+25-02-2022 05:56:00 - ERROR - 7.3.9 - 19,9 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails/blocks (1) - 
+25-02-2022 05:56:00 - ERROR - 7.3.9 - 19,9 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails (1) - 
+25-02-2022 05:56:00 - ERROR - 7.3.9 - 19,9 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails/blocks (1) - 
+25-02-2022 05:56:00 - ERROR - 7.3.9 - 19,9 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails (1) - 
+25-02-2022 05:56:04 - ERROR - 7.3.9 - 19,9 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails/blocks (1) - 
+25-02-2022 05:56:04 - ERROR - 7.3.9 - 19,9 Mo/1 000 Mo - admin > Missing block.php file in G:/Xampp/htdocs/wordpress-test-rolino/wp-content/plugins/newsletter/emails (1) - 
